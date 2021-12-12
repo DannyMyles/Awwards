@@ -55,7 +55,7 @@ click [here](https://awwwardy.herokuapp.com/)
 ### Cloning
 * In your terminal:
 
-        $ git clone https://github.com/NazarineWasonga/Awwards
+        $ git clone https://github.com/DannyMyles/Awwards
         $ cd Awwards
 
 ## Running the Application
