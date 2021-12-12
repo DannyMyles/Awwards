@@ -34,7 +34,7 @@ body
 }
 nav.webHeader__bottomBlock
 {
-  background:white;
+  background:rgb(250, 248, 248);
   /* position:sticky; */
   top:0;
   box-shadow:0 10px 35px hsla(0,0%,0%,0.06)
