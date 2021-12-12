@@ -47,7 +47,7 @@ click [here](https://awwwardy.herokuapp.com/)
 
 ## SetUp / Installation Requirements
 ### Prerequisites
-* python3.7
+* python3.9
 * pip
 * virtualenv
 * Requirements.txt
