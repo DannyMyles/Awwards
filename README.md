@@ -3,7 +3,7 @@
 ## Built By [DannyMyles](https://github.com/DannyMyles/)
 
 ## Description
-This is a web application that allows different developers to post their projects and peers can review the same by grading the projects in terms of userbility, design and content.
+The site allows different developers to post their projects and peers can review the same by grading the projects in terms of userbility, design and content.
 
 
 ## User Stories
