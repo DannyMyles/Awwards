@@ -7,7 +7,7 @@ The site allows different developers to post their projects and peers can review
 
 
 ## User Stories
-These are the behaviours/features that the application implements for use by a user.
+These are the behaviours that the application implements for use by a user.
 
 Users would like to:
 * View all projects submitted by any user.
